@@ -1,6 +1,6 @@
 # IMGUI-Base
 
-This project is a base boilerplate adapted from the ImGui example_glfw_vulkan project.
+This project is a base boilerplate adapted from the ImGui example_glfw_vulkan project. You are required to have the Vulkan SDK installed on system which can be found at https://sdk.lunarg.com/sdk/download/latest/windows/vulkan-sdk.exe, default install settings should work just fine.
 
 To use this base execute the following:
 ```
